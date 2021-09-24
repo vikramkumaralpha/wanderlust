@@ -38,7 +38,7 @@ class NavBar extends Component {
         <Router>
           {/* <div className="container-fluid"> */}
           <div className="App">
-            <nav className="navbar navbar-expand-md bg-dark navbar-dark">
+            <nav className="navbar navbar-expand-md bg-primary navbar-dark">
               <div className="navbar-header">
                 <Link className="navbar-brand" to="/">
                   Start Wandering

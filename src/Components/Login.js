@@ -128,9 +128,9 @@ class Login extends Component {
     if (this.state.register === true) return <Redirect to={"/register"} />;
     else if (this.state.successMessage !== "") return <Redirect to={"/"} />;
     return (
-      <div>
-        <div className="row my-5">
-          <section className="col"></section>
+      <div className="container">
+        <div className="row my-5 ">
+          {/* <section className="col"></section> */}
           <section className="col">
             <form className="form form-horizontal">
               <div className="form-group">
@@ -219,7 +219,7 @@ class Login extends Component {
               </div>
             </form>
           </section>
-          <section className="col"></section>
+          {/* <section className="col"></section> */}
         </div>
       </div>
     );
