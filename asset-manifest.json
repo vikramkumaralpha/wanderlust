@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/wanderlustclientside/static/css/main.bd9eebd8.chunk.css",
-    "main.js": "/wanderlustclientside/static/js/main.36b9222c.chunk.js",
-    "main.js.map": "/wanderlustclientside/static/js/main.36b9222c.chunk.js.map",
-    "runtime-main.js": "/wanderlustclientside/static/js/runtime-main.a881905d.js",
-    "runtime-main.js.map": "/wanderlustclientside/static/js/runtime-main.a881905d.js.map",
-    "static/css/2.9af2a338.chunk.css": "/wanderlustclientside/static/css/2.9af2a338.chunk.css",
-    "static/js/2.2f6090bf.chunk.js": "/wanderlustclientside/static/js/2.2f6090bf.chunk.js",
-    "static/js/2.2f6090bf.chunk.js.map": "/wanderlustclientside/static/js/2.2f6090bf.chunk.js.map",
-    "index.html": "/wanderlustclientside/index.html",
-    "precache-manifest.80bdb05d674760dd7fe2139831079141.js": "/wanderlustclientside/precache-manifest.80bdb05d674760dd7fe2139831079141.js",
-    "service-worker.js": "/wanderlustclientside/service-worker.js",
-    "static/css/2.9af2a338.chunk.css.map": "/wanderlustclientside/static/css/2.9af2a338.chunk.css.map",
-    "static/css/main.bd9eebd8.chunk.css.map": "/wanderlustclientside/static/css/main.bd9eebd8.chunk.css.map",
-    "static/js/2.2f6090bf.chunk.js.LICENSE": "/wanderlustclientside/static/js/2.2f6090bf.chunk.js.LICENSE",
-    "static/media/custom.css": "/wanderlustclientside/static/media/bg-masthead1.ecca46c8.jpg",
-    "static/media/primereact.min.css": "/wanderlustclientside/static/media/line.567f5738.gif",
-    "static/media/theme.css": "/wanderlustclientside/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
-    "static/media/primeicons.css": "/wanderlustclientside/static/media/primeicons.e5e0e944.svg"
+    "main.css": "/static/css/main.b6a0bb6a.chunk.css",
+    "main.js": "/static/js/main.ac7439fd.chunk.js",
+    "main.js.map": "/static/js/main.ac7439fd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aaf36b20.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aaf36b20.js.map",
+    "static/css/2.522f0186.chunk.css": "/static/css/2.522f0186.chunk.css",
+    "static/js/2.2f6090bf.chunk.js": "/static/js/2.2f6090bf.chunk.js",
+    "static/js/2.2f6090bf.chunk.js.map": "/static/js/2.2f6090bf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.486e68de985b54cda05ed0c2c079a3a0.js": "/precache-manifest.486e68de985b54cda05ed0c2c079a3a0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.522f0186.chunk.css.map": "/static/css/2.522f0186.chunk.css.map",
+    "static/css/main.b6a0bb6a.chunk.css.map": "/static/css/main.b6a0bb6a.chunk.css.map",
+    "static/js/2.2f6090bf.chunk.js.LICENSE": "/static/js/2.2f6090bf.chunk.js.LICENSE",
+    "static/media/custom.css": "/static/media/bg-masthead1.ecca46c8.jpg",
+    "static/media/primereact.min.css": "/static/media/line.567f5738.gif",
+    "static/media/theme.css": "/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/static/media/primeicons.e5e0e944.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a881905d.js",
-    "static/css/2.9af2a338.chunk.css",
+    "static/js/runtime-main.aaf36b20.js",
+    "static/css/2.522f0186.chunk.css",
     "static/js/2.2f6090bf.chunk.js",
-    "static/css/main.bd9eebd8.chunk.css",
-    "static/js/main.36b9222c.chunk.js"
+    "static/css/main.b6a0bb6a.chunk.css",
+    "static/js/main.ac7439fd.chunk.js"
   ]
 }
