@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/wanderlustclientside/static/css/main.850f0a81.chunk.css",
-    "main.js": "/wanderlustclientside/static/js/main.54240d58.chunk.js",
-    "main.js.map": "/wanderlustclientside/static/js/main.54240d58.chunk.js.map",
+    "main.css": "/wanderlustclientside/static/css/main.bd9eebd8.chunk.css",
+    "main.js": "/wanderlustclientside/static/js/main.36b9222c.chunk.js",
+    "main.js.map": "/wanderlustclientside/static/js/main.36b9222c.chunk.js.map",
     "runtime-main.js": "/wanderlustclientside/static/js/runtime-main.a881905d.js",
     "runtime-main.js.map": "/wanderlustclientside/static/js/runtime-main.a881905d.js.map",
-    "static/css/2.c520df0e.chunk.css": "/wanderlustclientside/static/css/2.c520df0e.chunk.css",
-    "static/js/2.9ba16d3d.chunk.js": "/wanderlustclientside/static/js/2.9ba16d3d.chunk.js",
-    "static/js/2.9ba16d3d.chunk.js.map": "/wanderlustclientside/static/js/2.9ba16d3d.chunk.js.map",
+    "static/css/2.9af2a338.chunk.css": "/wanderlustclientside/static/css/2.9af2a338.chunk.css",
+    "static/js/2.2f6090bf.chunk.js": "/wanderlustclientside/static/js/2.2f6090bf.chunk.js",
+    "static/js/2.2f6090bf.chunk.js.map": "/wanderlustclientside/static/js/2.2f6090bf.chunk.js.map",
     "index.html": "/wanderlustclientside/index.html",
-    "precache-manifest.411025febd81b38fc7333bf68873a0aa.js": "/wanderlustclientside/precache-manifest.411025febd81b38fc7333bf68873a0aa.js",
+    "precache-manifest.80bdb05d674760dd7fe2139831079141.js": "/wanderlustclientside/precache-manifest.80bdb05d674760dd7fe2139831079141.js",
     "service-worker.js": "/wanderlustclientside/service-worker.js",
-    "static/css/2.c520df0e.chunk.css.map": "/wanderlustclientside/static/css/2.c520df0e.chunk.css.map",
-    "static/css/main.850f0a81.chunk.css.map": "/wanderlustclientside/static/css/main.850f0a81.chunk.css.map",
-    "static/js/2.9ba16d3d.chunk.js.LICENSE": "/wanderlustclientside/static/js/2.9ba16d3d.chunk.js.LICENSE",
+    "static/css/2.9af2a338.chunk.css.map": "/wanderlustclientside/static/css/2.9af2a338.chunk.css.map",
+    "static/css/main.bd9eebd8.chunk.css.map": "/wanderlustclientside/static/css/main.bd9eebd8.chunk.css.map",
+    "static/js/2.2f6090bf.chunk.js.LICENSE": "/wanderlustclientside/static/js/2.2f6090bf.chunk.js.LICENSE",
     "static/media/custom.css": "/wanderlustclientside/static/media/bg-masthead1.ecca46c8.jpg",
     "static/media/primereact.min.css": "/wanderlustclientside/static/media/line.567f5738.gif",
     "static/media/theme.css": "/wanderlustclientside/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
@@ -21,9 +21,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a881905d.js",
-    "static/css/2.c520df0e.chunk.css",
-    "static/js/2.9ba16d3d.chunk.js",
-    "static/css/main.850f0a81.chunk.css",
-    "static/js/main.54240d58.chunk.js"
+    "static/css/2.9af2a338.chunk.css",
+    "static/js/2.2f6090bf.chunk.js",
+    "static/css/main.bd9eebd8.chunk.css",
+    "static/js/main.36b9222c.chunk.js"
   ]
 }

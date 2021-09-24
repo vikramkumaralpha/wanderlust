@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a0906088a4d9637911aa44d7cb33c7d",
+    "revision": "406566b1878ff4792b4024999d6c00aa",
     "url": "/wanderlustclientside/index.html"
   },
   {
-    "revision": "618171d17152757ae275",
-    "url": "/wanderlustclientside/static/css/2.c520df0e.chunk.css"
+    "revision": "d652c910c3a774f09299",
+    "url": "/wanderlustclientside/static/css/2.9af2a338.chunk.css"
   },
   {
-    "revision": "ac625c38118e9311e387",
-    "url": "/wanderlustclientside/static/css/main.850f0a81.chunk.css"
+    "revision": "2d7c10cd5c3b90feeac8",
+    "url": "/wanderlustclientside/static/css/main.bd9eebd8.chunk.css"
   },
   {
-    "revision": "618171d17152757ae275",
-    "url": "/wanderlustclientside/static/js/2.9ba16d3d.chunk.js"
+    "revision": "d652c910c3a774f09299",
+    "url": "/wanderlustclientside/static/js/2.2f6090bf.chunk.js"
   },
   {
-    "revision": "5f881245bbdb825ad69762e741b0c0ef",
-    "url": "/wanderlustclientside/static/js/2.9ba16d3d.chunk.js.LICENSE"
+    "revision": "adb77bd32ee94f1221fc82c5efe0daed",
+    "url": "/wanderlustclientside/static/js/2.2f6090bf.chunk.js.LICENSE"
   },
   {
-    "revision": "ac625c38118e9311e387",
-    "url": "/wanderlustclientside/static/js/main.54240d58.chunk.js"
+    "revision": "2d7c10cd5c3b90feeac8",
+    "url": "/wanderlustclientside/static/js/main.36b9222c.chunk.js"
   },
   {
     "revision": "639a2b2e693c33a74376",
